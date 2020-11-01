@@ -8,6 +8,7 @@ Environment:
 - macOS Catalina 10.15.7
 - pandoc 2.11.0.4
 - Python 3.8.5 
+    - Sphinx 3.2.1 (for detail, see requirements.txt)
 
 ```bash
 # bash
